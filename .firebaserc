@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-ng-a48bf": {
+      "hosting": {
+        "login": [
+          "login-ng-a48bf"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-ng-a48bf"
+  }
+}

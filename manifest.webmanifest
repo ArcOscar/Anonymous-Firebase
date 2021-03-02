@@ -1,0 +1,21 @@
+{
+    "name": "Anonymous",
+    "description": "Proyecto final Gina",
+    "icons": [
+      {
+        "src": "src/assets/images/192icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "src/assets/images/512icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/home",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6"
+  }
